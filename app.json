@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Mahe",
+    "slug": "mahe",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#f3e8ff"
+    },
+    "android": {
+      "package": "com.mahe.app",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#f3e8ff"
+      }
+    }
+  }
+}
